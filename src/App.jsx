@@ -7,7 +7,6 @@ function App() {
   return (
     <>
     <HomePage />
-     <h1>crypto app</h1>
     </>
   )
 }
